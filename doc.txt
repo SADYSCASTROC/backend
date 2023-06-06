@@ -1,0 +1,21 @@
+para instalar nodemon como herramienta de desarrollo
+  npm i nodemon -D
+
+
+   // "socket.io": "^2.3.0"
+
+   Para encriptar contraseñas, validar , jwt
+   npm i bcryptjs cors express-validator jsonwebtoken mongoose
+   npm install dotenv
+
+   mongoDB ATLAS , esta en la nube solo toca configurarla
+   https://www.mongodb.com/atlas/database
+
+   password
+   https://cloud.mongodb.com/v2/607bacf92517c417c881c39f#/clusters/connect?clusterId=ServerlessInstanceamario
+   29wHOSIzJySCsdLK
+
+   //users
+   chat_user
+   //password
+   qhCPj7VjEc7Q67fR
