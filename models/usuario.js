@@ -17,9 +17,8 @@ const UsuarioSchema = Schema({
 
     password: {
         type: String,
-        required: true,
-        maxlength: 6,
-        minlength: 10,
+        required: true
     },
 
 });
+module.exports = model('Usuario', UsuarioSchema)
